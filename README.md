@@ -46,7 +46,7 @@ Final decision is based on **priority-to-time ratio**
 
 ---
 
-### 🎒 Topic Selection (Fractional Knapsack)
+### Topic Selection (Fractional Knapsack)
 
 - Total available study hours = sum of daily hours
 - Topics are selected greedily:
@@ -57,7 +57,7 @@ This maximizes productivity within constraints
 
 ---
 
-### 📅 Schedule Generation
+### Schedule Generation
 
 - Converts selected topics into:
   - **Hour-wise slots**
