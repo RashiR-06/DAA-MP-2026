@@ -1,0 +1,13 @@
+Student Rashi
+DAA Sort 2 2 4 4
+DBMS SQL 3 5 2 6
+PS Probability 3 5 2 4
+END
+Student Shraddha
+DAA Trees 5 5 5 5
+PS Stats 4 4 4 5
+END
+Student Rahul
+DS Arrays 3 3 3 3
+Maths Matrix 3 5 4 4
+END
